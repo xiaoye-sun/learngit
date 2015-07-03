@@ -10,3 +10,4 @@ Creating a new branch is quick and simple.
 20150701
 fix bug 001
 aaa
+bbb
